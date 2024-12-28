@@ -77,4 +77,4 @@ In a competitive telecom market, identifying high-risk customers for churn is vi
 ## How to Run the Project
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repository-url.git
+   git clone https://github.com/Srujna/telecom-churn-case-study.git
